@@ -9,7 +9,7 @@
 <p>Nessa maratona foi utilizado <strong>CSS</strong> e <strong>HTML</strong> para fazer o frontend </p>
 <p>O Backend foi construído com Nodejs com integração do banco de dados em <strong>PostgresSQL</strong></p>
 
-<h2>Dependencias</h2>
+<h2>Dependências</h2>
 
 <p>Foi utilizado <strong>express / nodemon</strong> e <strong> nunjunk </strong>
 
