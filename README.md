@@ -13,3 +13,5 @@
 
 <p>Foi utilizado <strong>express / nodemon</strong> e <strong> nunjunk </strong>
 
+
+![DoeSangue](https://user-images.githubusercontent.com/59074122/77957531-014c3600-72aa-11ea-96d5-be93a99476b7.png)
